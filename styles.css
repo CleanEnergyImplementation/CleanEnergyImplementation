@@ -54,7 +54,7 @@ header {
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(rgba(218, 142, 0, 0.75), rgba(184, 107, 0, 0.75)), url('hero-image.jpg');
+    background: linear-gradient(rgba(218, 142, 0, 0.75), rgba(184, 107, 0, 0.75)), url('Cover_image.jpg');
     background-size: cover;
     background-position: center;
     color: white;
